@@ -1,2 +1,17 @@
 # segundo-projeto-frontend-Mentor
-solu
+Solu do desafio frontend mentor com  CSS, responsivo  usando  media query css.
+
+
+## Table of contents 
+- [Overview](#overview)
+- - [Screenshot](#screenshot)
+  - [Links](#links)
+ 
+
+ ## Overview
+ 
+### Screenshot 
+![]()
+### Links
+
+-Solution  URL: [Add solution URL](https://summary-frontend-mentor.netlify.app/)
