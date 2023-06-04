@@ -11,7 +11,9 @@ Solu do desafio frontend mentor com  CSS, responsivo  usando  media query css.
  ## Overview
  
 ### Screenshot 
-! []_(design/desktop-design.jpg)
+
+![](design/desktop-design.jpg)
+
 ### Links
 
 -Solution  URL: [Add solution URL](https://summary-frontend-mentor.netlify.app/)
